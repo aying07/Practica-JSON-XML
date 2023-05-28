@@ -1,0 +1,153 @@
+{
+    "Supermercados": [
+        {
+            "nombre": "Gadis",  
+            "dirección": "Av. Ramón Canosa, s/n, 27850, Viveiro, Lugo",
+            "geolocalización": "43.715659970516484, -7.584093802575816",
+            "departamento": [
+                {
+                    "Panadería": [
+                        {
+                            "producto": "barra de pan",
+                            "oferta": "-10%",
+                            "periodo de vigencia": "30 de Marzo",
+                            "unidad": "2",
+                            "unidad de medida": "gramos",
+                            "precio": "1.20€",
+                            "producto habitual": true,
+                            "producto adquirido": true
+                        }                  
+                    ]
+                },
+                {
+                    "Frutería": [
+                        {
+                            "producto": "manzanas",
+                            "oferta": "-5%",
+                            "periodo de vigencia": "1 de Mayo",
+                            "unidad": "15",
+                            "unidad de medida": "kg",
+                            "precio": "2.45€",
+                            "producto habitual": true,
+                            "producto adquirido": false
+                        }
+                    ]
+                },
+                {
+                    "Limpieza": [
+                        {
+                            "producto": "detergente líquido",
+                            "oferta": "Sin oferta",
+                            "periodo de vigencia": "No caduca",
+                            "unidad": "1",
+                            "unidad de medida": "Litros",
+                            "precio": "4.85€",
+                            "producto habitual": false,
+                            "producto adquirido": true
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "nombre": "Mercadona",  
+            "dirección": "Av. Álvaro Cunqueiro, 60, 27780, Foz, Lugo",
+            "geolocalización": "43.575014717640734, -7.2610306835521525",
+            "departamento": [
+                {
+                    "Congelados": [
+                        {
+                            "producto": "guisantes",
+                            "oferta": "2x1",
+                            "periodo de vigencia": "20.10.2028",
+                            "unidad": "1",
+                            "unidad de medida": "gramos",
+                            "precio": "0.90€",
+                            "producto habitual": false,
+                            "producto adquirido": false
+                        }                  
+                    ]
+                },
+                {
+                    "Droguería": [
+                        {
+                            "producto": "champú",
+                            "oferta": "-15%",
+                            "periodo de vigencia": "12 meses abierto",
+                            "unidad": "1",
+                            "unidad de medida": "gramos",
+                            "precio": "3.50",
+                            "producto habitual": true,
+                            "producto adquirido": true
+                        }
+                    ]
+                },
+                {
+                    "Bebidas": [
+                        {
+                            "producto": "vino blanco",
+                            "oferta": "Sin oferta",
+                            "periodo de vigencia": "No caduca",
+                            "unidad": "1",
+                            "unidad de medida": "Litros",
+                            "precio": "4.85",
+                            "producto habitual": true,
+                            "producto adquirido": true
+                         }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "nombre": "Día",  
+            "dirección": "Rúa Misericordia, 20, 27850, Viveiro, Lugo",
+            "geolocalización": "43.66546916152635, -7.601794262582567",
+            "departamento": [
+                {
+                    "Pescadería": [
+                        {
+                            "producto": "salmón",
+                            "oferta": "Sin oferta",
+                            "periodo de vigencia": "2 días",
+                            "unidad": "1",
+                            "unidad de medida": "gramos",
+                            "precio": "5.75€",
+                            "producto habitual": false,
+                            "producto adquirido": true
+                        }                  
+                    ]
+                },
+                {
+                    "Carnicería": [
+                        {
+                            "producto": "pechugas pollo",
+                            "oferta": "-30%",
+                            "periodo de vigencia": "Caduca al día siguiente",
+                            "unidad": "6",
+                            "unidad de medida": "gramos",
+                            "precio": "4.15€",
+                            "producto habitual": true,
+                            "producto adquirido": false
+                        }                  
+                    ]
+                },
+                {
+                    "Hogar": [
+                        {
+                            "producto": "velas",
+                            "oferta": "3x2",
+                            "periodo de vigencia": "No caduca",
+                            "unidad": "2",
+                            "unidad de medida": "gramos",
+                            "precio": "3.95€",
+                            "producto habitual": false,
+                            "producto adquirido": false
+                        }                  
+                    ]
+                }
+            ]
+        }
+]
+}
