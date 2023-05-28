@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Supermercados>
+    <nombre>Dia</nombre>
+    <dirección>Av. de Ntra. Sra. de Fátima, 92, 28047 Madrid</dirección>
+    <geolocalización>40.38270008548359, -3.7486345854279133</geolocalización>
+    <departamento>
+      <Panadería>
+        <producto>pan de semillas</producto>
+        <oferta>-10%</oferta>
+        <periododevigencia>30 de Mayo</periododevigencia>
+        <unidad>2</unidad>
+        <unidaddemedida>gramos</unidaddemedida>
+        <precio>1.20€</precio>
+        <productohabitual>true</productohabitual>
+        <productoadquirido>true</productoadquirido>
+      </Panadería>
+    </departamento>
+    <departamento>
+      <Frutería>
+        <producto>manzanas</producto>
+        <oferta>-5%</oferta>
+        <periododevigencia>1 de Mayo</periododevigencia>
+        <unidad>15</unidad>
+        <unidaddemedida>kg</unidaddemedida>
+        <precio>2.45€</precio>
+        <productohabitual>true</productohabitual>
+        <productoadquirido>false</productoadquirido>
+      </Frutería>
+    </departamento>
+    <departamento>
+      <Limpieza>
+        <producto>detergente líquido</producto>
+        <oferta>Sin oferta</oferta>
+        <periododevigencia>No caduca</periododevigencia>
+        <unidad>1</unidad>
+        <unidaddemedida>Litros</unidaddemedida>
+        <precio>4.85€</precio>
+        <productohabitual>false</productohabitual>
+        <productoadquirido>true</productoadquirido>
+      </Limpieza>
+    </departamento>
+  </Supermercados>
+  <Supermercados>
+    <nombre>Ahorramas</nombre>
+    <dirección>Av. de Ntra. Sra. de Fátima, 17, 28047 Madrid</dirección>
+    <geolocalización>40.3865247156491, -3.744729289290071</geolocalización>
+    <departamento>
+      <Congelados>
+        <producto>guisantes</producto>
+        <oferta>2x1</oferta>
+        <periododevigencia>20.10.2028</periododevigencia>
+        <unidad>1</unidad>
+        <unidaddemedida>gramos</unidaddemedida>
+        <precio>0.90€</precio>
+        <productohabitual>false</productohabitual>
+        <productoadquirido>false</productoadquirido>
+      </Congelados>
+    </departamento>
+    <departamento>
+      <Droguería>
+        <producto>champú</producto>
+        <oferta>-15%</oferta>
+        <periodo de vigencia>12 meses abierto</periodo de vigencia>
+        <unidad>1</unidad>
+        <unidaddemedida>gramos</unidaddemedida>
+        <precio>3.50</precio>
+        <productohabitual>true</productohabitual>
+        <productoadquirido>true</productoadquirido>
+      </Droguería>
+    </departamento>
+    <departamento>
+      <Bebidas>
+        <producto>vino blanco</producto>
+        <oferta>Sin oferta</oferta>
+        <periododevigencia>No caduca</periododevigencia>
+        <unidad>1</unidad>
+        <unidaddemedida>Litros</unidaddemedida>
+        <precio>4.85</precio>
+        <productohabitual>true</productohabitual>
+        <productoadquirido>true</productoadquirido>
+      </Bebidas>
+    </departamento>
+  </Supermercados>
+  <Supermercados>
+    <nombre>Primaprix</nombre>
+    <dirección>C. de la Oca, 46, 28025 Madrid</dirección>
+    <geolocalización>40.389956891157645, -3.737090358383084</geolocalización>
+    <departamento>
+      <Pescadería>
+        <producto>salmón</producto>
+        <oferta>Sin oferta</oferta>
+        <periododevigencia>2 días</periododevigencia>
+        <unidad>1</unidad>
+        <unidaddemedida>gramos</unidaddemedida>
+        <precio>5.75€</precio>
+        <productohabitual>false</productohabitual>
+        <productoadquirido>true</productoadquirido>
+      </Pescadería>
+    </departamento>
+    <departamento>
+      <Carnicería>
+        <producto>pechugas pollo</producto>
+        <oferta>-30%</oferta>
+        <periododevigencia>Caduca al día siguiente</periododevigencia>
+        <unidad>6</unidad>
+        <unidaddemedida>gramos</unidaddemedida>
+        <precio>4.15€</precio>
+        <productohabitual>true</productohabitual>
+        <productoadquirido>false</productoadquirido>
+      </Carnicería>
+    </departamento>
+    <departamento>
+      <Hogar>
+        <producto>velas</producto>
+        <oferta>3x2</oferta>
+        <periododevigencia>No caduca</periododevigencia>
+        <unidad>2</unidad>
+        <unidaddemedida>gramos</unidaddemedida>
+        <precio>3.95€</precio>
+        <productohabitual>false</productohabitual>
+        <productoadquirido>false</productoadquirido>
+      </Hogar>
+    </departamento>
+  </Supermercados>
+</root>
