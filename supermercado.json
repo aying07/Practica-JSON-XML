@@ -1,16 +1,16 @@
 {
     "Supermercados": [
         {
-            "nombre": "Gadis",  
-            "dirección": "Av. Ramón Canosa, s/n, 27850, Viveiro, Lugo",
-            "geolocalización": "43.715659970516484, -7.584093802575816",
+            "nombre": "Dia",  
+            "dirección": "Av. de Ntra. Sra. de Fátima, 92, 28047 Madrid",
+            "geolocalización": "40.38270008548359, -3.7486345854279133",
             "departamento": [
                 {
                     "Panadería": [
                         {
-                            "producto": "barra de pan",
+                            "producto": "pan de semillas",
                             "oferta": "-10%",
-                            "periodo de vigencia": "30 de Marzo",
+                            "periodo de vigencia": "30 de Mayo",
                             "unidad": "2",
                             "unidad de medida": "gramos",
                             "precio": "1.20€",
@@ -51,9 +51,9 @@
         },
 
         {
-            "nombre": "Mercadona",  
-            "dirección": "Av. Álvaro Cunqueiro, 60, 27780, Foz, Lugo",
-            "geolocalización": "43.575014717640734, -7.2610306835521525",
+            "nombre": "Ahorramas",  
+            "dirección": "Av. de Ntra. Sra. de Fátima, 17, 28047 Madrid",
+            "geolocalización": "40.3865247156491, -3.744729289290071",
             "departamento": [
                 {
                     "Congelados": [
@@ -101,9 +101,9 @@
         },
 
         {
-            "nombre": "Día",  
-            "dirección": "Rúa Misericordia, 20, 27850, Viveiro, Lugo",
-            "geolocalización": "43.66546916152635, -7.601794262582567",
+            "nombre": "Primaprix",  
+            "dirección": "C. de la Oca, 46, 28025 Madrid",
+            "geolocalización": "40.389956891157645, -3.737090358383084",
             "departamento": [
                 {
                     "Pescadería": [
